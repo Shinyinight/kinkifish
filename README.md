@@ -1,5 +1,5 @@
 # KinkiFish
-[KinkiFish](https://kinkifish.com/) is an online fashion marketplace, where fashion meets E-commerce. Shop now and discover the latest fashion trends!
+[KinkiFish](https://kinkifish.com/) is an online fashion marketplace, where fashion meets E-commerce. Shop now and discover the latest fashion trends!!
 
 ## Getting Started
 
